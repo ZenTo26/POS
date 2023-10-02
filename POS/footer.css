@@ -1,0 +1,42 @@
+.footer {
+  width: 100%;
+  background: #000;
+}
+.col-4 {
+  height: 400px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.left {
+  width: 80%;
+  height: 80%;
+  /* background-color: green; */
+  font-family: "Hanuman", serif;
+}
+.center {
+  width: 80%;
+  height: 80%;
+  /* background-color: green; */
+  color: #fff;
+}
+.right {
+  width: 80%;
+  height: 80%;
+  /* background-color: green    ; */
+  color: #fff;
+}
+.right .social {
+  width: 100%;
+  height: 40px;
+  /* background-color: red; */
+  margin-top: 8px;
+}
+.right .social i {
+  color: #ffffffac;
+  font-size: 25px;
+  padding-left: 3px;
+}
+.right .social i:hover {
+  color: #fff;
+}
